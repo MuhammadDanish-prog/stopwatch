@@ -1,0 +1,14 @@
+body{
+    background-color: black !important;
+    text-align: center !important;
+}
+h1{
+    display: inline-block !important;
+    background-color: white !important;
+    width:150px !important ;
+}
+#main{
+    background-color: rosybrown;
+    margin-top:250px;
+    border-radius:40% ;
+}
